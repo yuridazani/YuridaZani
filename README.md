@@ -33,7 +33,7 @@ Here are the technologies I work with daily:
 
 * 🔭 I’m currently working on my final-year thesis project, which is a **Reservation & Feedback System for a café**.
 * 🌱 I’m always learning and currently deepening my skills in the React ecosystem and **TypeScript**.
-* 💼 I just won my first freelance project on Projects.co.id for a vehicle tracking app!
+* 🎮 I’ve recently started playing **League of Legends** and have a strong interest in **T1 Faker** as a pro player.
 * 👀 Outside of coding, I'm interested in music (SEVENTEEN is my go-to!) and creative writing.
 
 ---
